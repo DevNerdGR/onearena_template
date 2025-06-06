@@ -117,8 +117,8 @@ Represents a point detected on the line.
 * **Fields**:
 
   * `x, y`: Position in UV space
-  * `theta`: Orientation angle of the segment
-  * `c`: Confidence or category (may depend on SDK specifics)
+  * `theta`: Tangential angle
+  * `c`: Curvature
 
 ---
 
